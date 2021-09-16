@@ -1,0 +1,17 @@
+{
+    "conan": {
+        "branch": "master",
+        "repo": "conan",
+        "repourl": "https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/conan"
+    },
+    "kid": {
+        "branch": "master",
+        "repo": "kid",
+        "repourl": "https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/kid"
+    },
+    "cloudwatch-event-pipeline": {
+        "branch": "master",
+        "repo": "cloudwatch-event-pipeline",
+        "repourl": "https://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/cloudwatch-event-pipeline"
+    }
+}
